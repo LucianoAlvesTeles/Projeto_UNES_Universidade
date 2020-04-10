@@ -12,13 +12,13 @@
 
 ## 💻 Projeto
 
-#### Este projeto teve como objetivo criar um Frontend simples utilizando HTML para um site de uma Universidade fictícioa de nome UNES - Universidade
+#### Este projeto teve como objetivo criar um Frontend simples utilizando HTML para um site de uma Universidade fictícia de nome UNES - Universidade
 
 ## Frontend
 
-<img align="center" src="imagens/Captura1"></img>
-<img align="center" src="imagens/Captura2"></img>
-<img align="center" src="imagens/Captura3"></img>
+<img align="center" src="imagens/Captura1.png"></img>
+<img align="center" src="imagens/Captura2.png"></img>
+<img align="center" src="imagens/Captura3.png"></img>
 
 ## E em relação ao aprendizado?
 
