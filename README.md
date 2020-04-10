@@ -16,9 +16,9 @@
 
 ## Front-end
 
-<img src="imagens/Captura1.PNG">
-<img src="imagens/Captura2.PNG">
-<img src="imagens/Captura3.PNG">
+<img src="Imagens/Captura1.PNG">
+<img src="Imagens/Captura2.PNG">
+<img src="Imagens/Captura3.PNG">
 
 ## E em relação ao aprendizado?
 
