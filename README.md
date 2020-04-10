@@ -12,16 +12,20 @@
 
 ## 💻 Projeto
 
-#### Este projeto teve como objetivo criar um Front-end simples utilizando HTML para um site de uma Universidade fictícia de nome UNES - Universidade
+#### Este projeto teve como objetivo criar um Front-end simples utilizando HTML para um site de uma Universidade fictícia de nome "UNES - Universidade"
 
 ## Front-end
+#### Página "Home":
+<img src="Imagens/Captura1.PNG"> 
 
-<img src="Imagens/Captura1.PNG">
+#### Página "Quem somos":
 <img src="Imagens/Captura2.PNG">
+
+#### Página "Contato":
 <img src="Imagens/Captura3.PNG">
 
 ## E em relação ao aprendizado?
 
-Nesse projeto eu coloquei em prática parte do conhecimento sobre HTML adquirido no curso citado anteriormente
+Nesse projeto coloquei em prática parte do conhecimento sobre HTML adquirido no curso citado anteriormente
 
 Feito com ❤️ por Luciano A. Teles
