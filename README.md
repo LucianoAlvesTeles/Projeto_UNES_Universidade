@@ -1,4 +1,4 @@
-<img src="Imagens/logo.png" align="center"></img>
+<img src="Imagens/logo.png" align="center">
 <h1 align="center">Projet UNES - Universidade</h1>
 <p align="center">Projeto <strong>UNES - Universidade</strong> Desenvolvido durante o curso "Desenvolvimento Web Completo 2020" ministrado por  Jorge Sant Ana e Jamilton Damasceno por meio da plataforma de ensino da <a href ="https://www.udemy.com/">Udemy<a></p>
 
@@ -12,13 +12,13 @@
 
 ## 💻 Projeto
 
-#### Este projeto teve como objetivo criar um Frontend simples utilizando HTML para um site de uma Universidade fictícia de nome UNES - Universidade
+#### Este projeto teve como objetivo criar um Front-end simples utilizando HTML para um site de uma Universidade fictícia de nome UNES - Universidade
 
-## Frontend
+## Front-end
 
-<img align="center" src="imagens/Captura1.png"></img>
-<img align="center" src="imagens/Captura2.png"></img>
-<img align="center" src="imagens/Captura3.png"></img>
+<img src="imagens/Captura1.PNG">
+<img src="imagens/Captura2.PNG">
+<img src="imagens/Captura3.PNG">
 
 ## E em relação ao aprendizado?
 
