@@ -1,31 +1,30 @@
-<img src="Imagens/logo.png" align="center">
+:<img src="Imagens/logo.png">:
 <h1 align="center">Projet UNES - Universidade</h1>
 <p align="center">Projeto <strong>UNES - Universidade</strong> Desenvolvido durante o curso "Desenvolvimento Web Completo 2020" ministrado por  Jorge Sant Ana e Jamilton Damasceno por meio da plataforma de ensino da <a href ="https://www.udemy.com/">Udemy<a></p>
 
-<hl>
-
-## :rocket: Tecnologias utilizadas:
+## 🚀 Tecnologias utilizadas:
 
   [Html](https://www.w3schools.com/html/default.asp)
 | [CSS](https://www.w3schools.com/css/)
 
 
-## 💻 Projeto
+## 🙂 Projeto
 
 #### Este projeto teve como objetivo criar um Front-end simples utilizando HTML para um site de uma Universidade fictícia de nome "UNES - Universidade"
 
-## Front-end
-#### Página "Home":
-<img src="Imagens/Captura1.PNG"> 
+## 💻 Front-end
 
-#### Página "Quem somos":
-<img src="Imagens/Captura2.PNG">
+#### Página "Home.html":
+:<img src="Imagens/Captura1.PNG">:
 
-#### Página "Contato":
-<img src="Imagens/Captura3.PNG">
+#### Página "Quem somos.hmtl":
+:<img src="Imagens/Captura2.PNG">:
 
-## E em relação ao aprendizado?
+#### Página "Contato.hmtl":
+:<img src="Imagens/Captura3.PNG">:
 
-Nesse projeto coloquei em prática parte do conhecimento sobre HTML adquirido no curso citado anteriormente
+## 😀 E em relação ao aprendizado?
 
-Feito com ❤️ por Luciano A. Teles
+Nesse projeto coloquei em prática parte do conhecimento sobre HTML adquirido no curso citado anteriormente.
+
+Feito com ❤️ Luciano Teles
