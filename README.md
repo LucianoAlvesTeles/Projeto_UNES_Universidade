@@ -26,11 +26,3 @@
 
 #### Página de Contato:
 <img src="Imagens/Captura3.PNG">
-
-## 📝 E em relação ao aprendizado?
-
-Nesse projeto coloquei em prática parte do conhecimento sobre HTML adquirido no curso citado anteriormente.
-
-
-
-Feito com ❤️ Luciano Teles
